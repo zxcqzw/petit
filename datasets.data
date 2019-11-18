@@ -1,0 +1,5 @@
+classes= 1
+train  = cfg/hari/train.txt
+valid  = cfg/hari/test.txt
+names =  cfg/hari/class.names
+backup = cfg/hari/backup
